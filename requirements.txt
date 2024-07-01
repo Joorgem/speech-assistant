@@ -1,0 +1,4 @@
+openai
+python-dotenv
+SpeechRecognition
+playsound==1.2.2
